@@ -1,0 +1,10 @@
+c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\ReflectionalMapperTest.dll.config
+c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\ReflectionalMapperTest.dll
+c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\ReflectionalMapperTest.pdb
+c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\nunit.framework.dll
+c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\ReflectionalMapper.dll
+c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\ReflectionalMapper.pdb
+c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\nunit.framework.xml
+c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\obj\Debug\ReflectionalMapperTest.csprojResolveAssemblyReference.cache
+c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\obj\Debug\ReflectionalMapperTest.dll
+c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\obj\Debug\ReflectionalMapperTest.pdb
