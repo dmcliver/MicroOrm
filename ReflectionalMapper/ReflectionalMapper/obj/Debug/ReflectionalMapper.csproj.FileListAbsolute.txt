@@ -4,3 +4,9 @@ c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\Refle
 c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapper\obj\Debug\ReflectionalMapper.csprojResolveAssemblyReference.cache
 c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapper\obj\Debug\ReflectionalMapper.dll
 c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapper\obj\Debug\ReflectionalMapper.pdb
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapper\bin\Debug\ReflectionalMapper.dll.config
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapper\bin\Debug\ReflectionalMapper.dll
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapper\bin\Debug\ReflectionalMapper.pdb
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapper\obj\Debug\ReflectionalMapper.csprojResolveAssemblyReference.cache
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapper\obj\Debug\ReflectionalMapper.dll
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapper\obj\Debug\ReflectionalMapper.pdb

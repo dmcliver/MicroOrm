@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[PhoneType]
+(
+	[Name] NVARCHAR(255) NOT NULL PRIMARY KEY
+)

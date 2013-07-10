@@ -8,3 +8,13 @@ c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\Refle
 c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\obj\Debug\ReflectionalMapperTest.csprojResolveAssemblyReference.cache
 c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\obj\Debug\ReflectionalMapperTest.dll
 c:\users\danielmc\documents\visual studio 2012\Projects\ReflectionalMapper\ReflectionalMapperTest\obj\Debug\ReflectionalMapperTest.pdb
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\ReflectionalMapperTest.dll.config
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\ReflectionalMapperTest.dll
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\ReflectionalMapperTest.pdb
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\nunit.framework.dll
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\ReflectionalMapper.dll
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\ReflectionalMapper.pdb
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapperTest\bin\Debug\nunit.framework.xml
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapperTest\obj\Debug\ReflectionalMapperTest.csprojResolveAssemblyReference.cache
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapperTest\obj\Debug\ReflectionalMapperTest.dll
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\ReflectionalMapperTest\obj\Debug\ReflectionalMapperTest.pdb

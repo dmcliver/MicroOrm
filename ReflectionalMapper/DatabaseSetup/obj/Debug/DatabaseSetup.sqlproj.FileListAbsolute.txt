@@ -1,0 +1,5 @@
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\DatabaseSetup\bin\Debug\DatabaseSetup.dacpac
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\DatabaseSetup\bin\Debug\DatabaseSetup.dll
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\DatabaseSetup\bin\Debug\DatabaseSetup.pdb
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\DatabaseSetup\obj\Debug\DatabaseSetup.dll
+C:\Users\danielmc\MicroOrm\ReflectionalMapper\DatabaseSetup\obj\Debug\DatabaseSetup.pdb

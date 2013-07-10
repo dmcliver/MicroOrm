@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Client]
+       [dbo].[Phone]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[Client] (Table)
+       [dbo].[Phone] (Table)
+     Create
+       [dbo].[ClientsPhone] (Table)
+       [dbo].[PhoneType] (Table)
+       [dbo].[FK_Phone_ToPhoneType] (Foreign Key)
+       [dbo].[FK_ClientsPhone_ToClient] (Foreign Key)
+       [dbo].[FK_ClientsPhone_ToPhoneNumber] (Foreign Key)
+
+** Supporting actions
